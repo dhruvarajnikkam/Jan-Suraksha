@@ -10,10 +10,8 @@ By decoupling high-stakes clinical logic from narrative AI, we provide a system 
 
 ### **🔗 Critical Links**
 
-* **Live Deployed Application: https://rift-team-vistara.netlify.app/ **
-* **LinkedIn Video Demo:**
-* **GitHub Repository:**
-* **API Documentation:**
+Live Deployed Application: https://rift-team-vistara.netlify.app/ 
+LinkedIn Video Demo:https://www.linkedin.com/posts/krishna-gupta-b53758389_rift2026-pharmaguard-pharmacogenomics-ugcPost-7430438314882650112-fDz5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF-vdW8B6gqomy2RJi6tPyYQ6GdaSj3Jj4M
 
 ---
 
