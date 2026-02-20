@@ -130,8 +130,8 @@ Our system guarantees 100% adherence to the mandated JSON schema.
 
 **Institution:** PW Institute of Innovation (PW IOI)
 
-* **Krishna Gupta:** Lead Developer (Deterministic Kernel & Bioinformatics)
-* **Dhruvraj Nikkam:** Systems Architect (ABDM Integration & Clinical UX)
+* **Krishna Gupta:** Lead Developer 
+* **Dhruvraj Nikkam:** Systems Architect 
 
 ---
 
